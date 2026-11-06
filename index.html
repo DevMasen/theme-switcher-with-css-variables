@@ -8,13 +8,14 @@
 </head>
 <body>
 
-  <div class="theme-switcher">
+  <div class="theme-switcher" role="radiogroup" aria-label="Choose a theme">
     <input type="radio" id="theme-light" name="theme" value="light" checked>
-    <input type="radio" id="theme-dark" name="theme" value="dark">
-    <input type="radio" id="theme-rose" name="theme" value="rose">
-
     <label for="theme-light" class="theme-option">Light</label>
+
+    <input type="radio" id="theme-dark" name="theme" value="dark">
     <label for="theme-dark" class="theme-option">Dark</label>
+
+    <input type="radio" id="theme-rose" name="theme" value="rose">
     <label for="theme-rose" class="theme-option">Rose</label>
   </div>
 
