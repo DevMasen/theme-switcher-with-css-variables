@@ -23,23 +23,23 @@ The implementation uses only HTML and CSS:
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/DevMasen/theme-switcher-with-css-variables.git
-   ```
+    ```bash
+    git clone https://github.com/DevMasen/theme-switcher-with-css-variables.git
+    ```
 
 2. Navigate into the project folder:
 
-   ```bash
-   cd theme-switcher-with-css-variables
-   ```
+    ```bash
+    cd theme-switcher-with-css-variables
+    ```
 
 3. Open `index.html` in your browser:
 
-   ```bash
-   start index.html
-   ```
+    ```bash
+    start index.html
+    ```
 
-   Or simply double-click `index.html` to open it.
+    Or simply double-click `index.html` to open it.
 
 No build step or dependencies are required.
 
@@ -49,9 +49,9 @@ No build step or dependencies are required.
 
 ## Vote
 
-Vote for this project (link coming later)
+Vote for this project if you like.
 
-[Vote Here](#)
+[Vote Here](https://roadmap.sh/projects/theme-switcher/solutions?u=66107474da1671f986289b45)
 
 ## Thank You
 
