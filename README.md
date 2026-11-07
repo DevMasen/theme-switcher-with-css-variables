@@ -49,9 +49,7 @@ No build step or dependencies are required.
 
 ## Vote
 
-Vote for this project if you like.
-
-[Vote Here](https://roadmap.sh/projects/theme-switcher/solutions?u=66107474da1671f986289b45)
+Vote for this project with this [LINK](https://roadmap.sh/projects/theme-switcher/solutions?u=66107474da1671f986289b45) if you like.
 
 ## Thank You
 
